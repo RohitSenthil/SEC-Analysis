@@ -1,0 +1,4 @@
+sec-edgar-filings/
+.env
+venv/
+filing-embeddings/
